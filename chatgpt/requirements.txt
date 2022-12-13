@@ -1,2 +1,3 @@
-pyChatGPT==0.1.0
+pyChatGPT==0.2.8
 seldon-core==1.14.0
+selenium==4.7.2
