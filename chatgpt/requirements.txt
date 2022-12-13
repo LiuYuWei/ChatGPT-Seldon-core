@@ -1,0 +1,2 @@
+pyChatGPT==0.1.0
+seldon-core==1.14.0
