@@ -7,3 +7,7 @@ $ make build
 ```
 
 ## 2. Push the base image
+
+```
+$ make push
+```
